@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Go to my work profile here: https://github.com/gblotta-xoor/xblotin
+# Go to my work profile here: https://github.com/gblotta-xoor
 
 <!--
 **blotin1993/blotin1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
